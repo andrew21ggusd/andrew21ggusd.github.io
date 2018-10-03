@@ -1,0 +1,167 @@
+#body1 {
+	background-image: url("cyberpunk.jpg");
+	background-repeat: no-repeat;
+	background-color: grey;
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+#body2 {
+	background-image: url("freethought.gif");
+	background-repeat: no-repeat;
+	background-color: grey;
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+#body3 {
+	background-image: url("whumpus.png");
+	background-repeat: no-repeat;
+	background-color: grey;
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+#nav {
+	list-style-type: none;
+	margin: -8px;
+	padding: 0;
+	overflow: hidden;
+	background-color: #27282b;
+	border-color: black;
+}
+#nav li {
+	float: left;
+}
+#nav li a{
+	color: white;
+	text-decoration: none;
+	display: block;
+	padding: 14px 16px;
+}
+#content {
+	border-style: solid;
+	border-width: 4px;
+	border-color: skyblue;
+	margin-top: 20px;
+	width: 68%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding-bottom: 20px;
+	background-color: rgba(83,104,120,.75);
+}
+table, th, td {
+    border: 1px solid black;
+    margin: auto;
+}
+#content ul,#content ol{
+	width: 25%;
+	margin: auto;
+}
+li a:hover{
+	text-shadow: 2px 2px 5px #bbb;
+}
+#nav li a:hover{
+	background-color: lightblue;
+}
+#content {
+	font-family: 'Merriweather', serif;
+}
+#school {
+	text-align: center;
+	font-size: 26px;
+}
+#p1, #p2{
+	padding: 0px;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 26px;
+	font-weight: bold;
+	margin: 1px;
+	margin-top: 3px;
+}
+p {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 20px;
+}
+li {
+	font-size: 18px;
+}
+#begin {
+	font-size: 60px;
+	text-align: center;
+}
+h1 {
+	text-align: center;
+	padding-top: 3px;
+	padding-bottom: 1px;
+	margin-bottom: 0px;
+	margin: 2px;
+}
+div {
+	margin: 0px;
+}
+#email {
+	text-decoration: none;
+	color: black;
+	border-color: black;
+	font-size: 26px;
+}
+#intro {
+	font-size: 28px;
+}
+#box {
+	border-style: solid;
+	border-color: black;
+	width: 25%;
+	text-align: center;
+	margin: auto;
+	margin-top: 316px;
+}
+#content1 {
+	border-style: solid;
+	border-width: 4px;
+	border-color: skyblue;
+	margin-top: 20px;
+	width: 68%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	padding-bottom: 20px;
+	background-color: rgba(83,104,120,.75);
+	font-size: 20px;
+}
+hr {
+	color: black;
+	width: 97%;
+}
+#address {
+	margin-left: 8px;
+	margin-top: 4px;
+	padding-left: 4px;
+	font-size: 25px;
+}
+#summary {
+	font-size: 22px;
+	margin-left: 8px;
+	margin-top: 4px;
+	padding-left: 4px;
+}
+#edu {
+	text-align: center;
+	padding: 0px;
+	margin: 2px;
+}
+h3 {
+	margin: auto;
+	margin-left: 10px;
+	
+}
+h4 {
+	margin: auto;
+	margin-left: 10px;
+}
+h5 {
+	margin: auto;
+	margin-left: 10px;
+}
