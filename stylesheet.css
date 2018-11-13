@@ -15,7 +15,6 @@
 	font-family: 'Source Sans Pro', sans-serif;
 }
 #body3 {
-	background-image: url("whumpus.png");
 	background-repeat: no-repeat;
 	background-color: grey;
 	background-size: cover;
@@ -131,7 +130,7 @@ div {
 	background-color: rgba(83,104,120,.75);
 	font-size: 20px;
 }
-hr {
+.hr {
 	color: black;
 	width: 97%;
 }
@@ -181,4 +180,9 @@ ul {
 #achievements {
 	margin: auto;
 	text-align: left;
+}
+#game1{
+	text-align: center;
+	border-style: solid;
+	border-color: black;
 }
